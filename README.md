@@ -1,4 +1,5 @@
-# 🤖 Telegram Voice Bot 🎙  
+# 🤖 Telegram Voice Bot 🎙
+
 Бот для озвучивания текста с помощью Yandex SpeechKit — отправляет голосовые сообщения или mp3-файлы.
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue?logo=python)
@@ -17,13 +18,17 @@
 
 | Интерфейс бота | Пример MP3 | Пример Voice |
 |----------------|------------|---------------|
-| ![preview](./screenshots/Screenshot_1.png) | ![preview](./Цитата.mp3) | ![preview](./новости.mp3) |
+| ![preview](https://github.com/FedorSablin/telegram-voice-bot/blob/main/screenshots/Screenshot_1.png?raw=true) | ![preview](https://github.com/FedorSablin/telegram-voice-bot/blob/main/screenshots/Screenshot_2.png?raw=true) | ![preview](https://github.com/FedorSablin/telegram-voice-bot/blob/main/screenshots/Screenshot_3.png?raw=true) |
 
-> Еще скриншоты в папке /screenshots
+🎧 Примеры озвучки:
+
+- [новости.mp3](https://github.com/FedorSablin/telegram-voice-bot/blob/main/audio/новости.mp3?raw=true)
+- [цитата.mp3](https://github.com/FedorSablin/telegram-voice-bot/blob/main/audio/цитата.mp3?raw=true)
 
 ---
 
 ## 🚀 Возможности
+
 - 🔘 Выбор голосов: Алиса, Олег, Женя
 - 🗣️ Поддержка голосовых сообщений (OGG)
 - 💾 Возможность сохранить результат в MP3
@@ -36,26 +41,30 @@
 ## ⚙️ Установка
 
 1. Склонируйте репозиторий:
-```bash
-git clone https://github.com/FedorSablin/telegram-voice-bot.git
-cd telegram-voice-bot
-```
+
+   ```bash
+   git clone https://github.com/FedorSablin/telegram-voice-bot.git
+   cd telegram-voice-bot
+   ```
 
 2. Установите зависимости:
-```bash
-pip install -r requirements.txt
-```
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Заполните `config.py`:
-```python
-bot_token = "ВАШ_ТЕЛЕГРАМ_ТОКЕН"
-yandex_api_key = "ВАШ_IAM_ТОКЕН"
-```
+
+   ```python
+   bot_token = "ВАШ_ТЕЛЕГРАМ_ТОКЕН"
+   yandex_api_key = "ВАШ_IAM_ТОКЕН"
+   ```
 
 4. Запустите:
-```bash
-python bot.py
-```
+
+   ```bash
+   python bot.py
+   ```
 
 ---
 
@@ -75,6 +84,11 @@ python bot.py
 | `/help`     | Инструкция по использованию            |
 | `/about`    | Описание функционала бота              |
 
+---
+
+## 🖼️ Аватарка
+
+![avatar](https://github.com/FedorSablin/telegram-voice-bot/blob/main/screenshots/avatar.png?raw=true)
 
 ---
 
