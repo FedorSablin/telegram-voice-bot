@@ -18,7 +18,7 @@
 
 | Интерфейс бота | Пример MP3 | Пример Voice |
 |----------------|------------|---------------|
-| ![preview](https://github.com/FedorSablin/telegram-voice-bot/blob/main/screenshots/Screenshot_1.png?raw=true) | | ![preview](https://github.com/FedorSablin/telegram-voice-bot/blob/main/screenshots/Screenshot_3.png?raw=true) ![preview](https://github.com/FedorSablin/telegram-voice-bot/blob/main/screenshots/Screenshot_2.png?raw=true)  |
+| ![preview](https://github.com/FedorSablin/telegram-voice-bot/blob/main/screenshots/Screenshot_1.png?raw=true) | ![preview](https://github.com/FedorSablin/telegram-voice-bot/blob/main/screenshots/Screenshot_3.png?raw=true) | ![preview](https://github.com/FedorSablin/telegram-voice-bot/blob/main/screenshots/Screenshot_2.png?raw=true) |
 
 🎧 Примеры озвучки:
 
@@ -88,7 +88,7 @@
 
 ## 🖼️ Аватарка
 
-![avatar](https://github.com/FedorSablin/telegram-voice-bot/blob/main/screenshots/avatar.png?raw=true)
+![avatar](https://github.com/FedorSablin/telegram-voice-bot/blob/main/avatar.png?raw=true)
 
 ---
 
